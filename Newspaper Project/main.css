@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;    
+  }
+body{
+  background-color: rgb(187, 187, 187);
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
